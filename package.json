@@ -1,6 +1,6 @@
 {
     "name": "badging",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Index of frequently used badges for NPM",
     "main": "index.js",
     "directories": {
@@ -25,7 +25,7 @@
         "url": "https://github.com/YounGoat/nodejs.badging/issues"
     },
     "homepage": "https://github.com/YounGoat/nodejs.badging#readme",
-    "dependencies": {
+    "devDependencies": {
         "mocha": "^3.4.1"
     }
 }
