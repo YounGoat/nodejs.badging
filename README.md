@@ -106,7 +106,7 @@ Powered by [Davids](https://david-dm.org).
 var badge = badging.github.star(userName, repoName);
 ```
 
-Powered by [Shields IO](ttp://shields.io).
+Powered by [Shields IO](http://shields.io).
 
 ###	github.travis
 
