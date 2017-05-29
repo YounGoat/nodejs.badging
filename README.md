@@ -58,7 +58,7 @@ The `unit` may be one of:
 *	week
 *	total
 
-Powered by [Shields IO](ttp://shields.io).
+Powered by [Shields IO](http://shields.io).
 
 ###	npm.license
 
@@ -66,7 +66,7 @@ Powered by [Shields IO](ttp://shields.io).
 var badge = badging.npm.license(packageName);
 ```
 
-Powered by [Shields IO](ttp://shields.io).
+Powered by [Shields IO](http://shields.io).
 
 ###	npm.version
 
@@ -74,7 +74,7 @@ Powered by [Shields IO](ttp://shields.io).
 var badge = badging.npm.version(packageName);
 ```
 
-Powered by [Shields IO](ttp://shields.io).
+Powered by [Shields IO](http://shields.io).
 
 ###	github.coveralls
 
