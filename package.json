@@ -1,6 +1,6 @@
 {
     "name": "badging",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Index of frequently used badges for NPM",
     "main": "index.js",
     "directories": {
